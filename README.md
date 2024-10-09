@@ -1,4 +1,4 @@
 # myfirst_repo
 this is my first repository
 <br>
-author - Hitesh (student)
+author - Hitesh sharma (student)
